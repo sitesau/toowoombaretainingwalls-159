@@ -1,0 +1,22 @@
+{
+  "wheel_id": 943,
+  "structure": "umbrella",
+  "slug": "toowoombaretainingwalls-159",
+  "project": "retaining-wall-repairs-toowoomba-what-to-expect-754bd72233771af",
+  "parent_t1_ref": "toowoombaretainingwalls-007",
+  "node_role": "buffer",
+  "money_target": "toowoombaretainingwalls.com",
+  "primary_kw": "retaining wall repairs toowoomba what to expect",
+  "intended_url": "http://retaining-wall-repairs-toowoomba-what-to-expect-754bd72233771af.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "3ed856c8d3672e3c",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-repairs-toowoomba-toowoombaretainingwalls-007/",
+      "anchor": "Retaining Wall Repairs Toowoomba: Repair Planning Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
